@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhoneIt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <color name="app_color">#3366CC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="list_item_title">#000</color>
+    <color name="list_background">#FFF</color>
+    <color name="list_background_pressed">#CCCCCC</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="gray">#E5E5E5</color>
+    <color name="light_black">#787878</color>
+    <color name="link_blue">#20C5F6</color>
+    	
+    <string name="normal">Normal</string>
+    <string name="big_text_style">Big Text Style</string>
+    <string name="big_picture_style">Big Picture Style</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_item_details">ItemDetailsActivity</string>
+
+</resources>
